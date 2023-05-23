@@ -1,2 +1,2 @@
-a = 'git'
-print("hello {0}".format(a))
+name = 'git'
+print("hello, {0}".format(name))
